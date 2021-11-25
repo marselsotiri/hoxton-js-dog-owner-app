@@ -17,7 +17,6 @@
     font-family: sans-serif;
     color: var(--dark-text);
     background-color: var(--white);
-    overflow: hidden;
   }
   
   img {
